@@ -1,0 +1,18 @@
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+.header__parent{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding:24px 0;
+}
+
+.menu__parent{
+display: flex;
+gap:20px;
+align-items: baseline;
+}
+

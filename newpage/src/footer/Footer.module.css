@@ -1,0 +1,12 @@
+.footerText{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+}
+
+.icons{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0 20px 0;
+}

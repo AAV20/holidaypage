@@ -1,0 +1,30 @@
+.active{
+    color:pink;
+}
+
+.gifthead{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0 50px 0;
+}
+
+.numberscount{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    /* align-items: center; */
+    gap: 50px;
+    padding: 70px 0;
+}
+
+.number{
+    cursor: pointer;
+}
+
+button{
+    background-color: white;
+    border: none;
+    cursor: pointer;
+}
