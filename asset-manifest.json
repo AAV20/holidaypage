@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/holidaypage/static/css/main.6049da3a.css",
+    "main.js": "/holidaypage/static/js/main.8cd42d66.js",
+    "static/media/findGift.png": "/holidaypage/static/media/findGift.fb97408b8503ae6beca3.png",
+    "static/media/thanks.png": "/holidaypage/static/media/thanks.2caa491b7c2077f3c685.png",
+    "index.html": "/holidaypage/index.html",
+    "main.6049da3a.css.map": "/holidaypage/static/css/main.6049da3a.css.map",
+    "main.8cd42d66.js.map": "/holidaypage/static/js/main.8cd42d66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6049da3a.css",
+    "static/js/main.8cd42d66.js"
+  ]
+}
